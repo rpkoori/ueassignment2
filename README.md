@@ -1,3 +1,3 @@
 # ueassignment2
 第二次作业
-工程文件和windows打包都在release的压缩包里
+有些文件太大了传不上来，所以工程文件和windows打包都放在release的压缩包里了
